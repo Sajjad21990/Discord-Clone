@@ -1,0 +1,16 @@
+.sidebarChannel > h4 {
+  color: grey;
+  font-size: 1.7rem;
+  text-transform: uppercase;
+  padding: 5px;
+  margin: 5px;
+  cursor: pointer;
+}
+.sidebarChannel > h4:hover {
+  background-color: #fff;
+  color: black;
+}
+.sidebarChannel_hash {
+  color: grey;
+  padding: 10px;
+}

@@ -30,12 +30,14 @@ const Login = () => {
           justifyContent: "space-between",
           height: "50vh",
           alignItems: "center",
+
+          width: "70vw",
         }}
       >
         <img
           src="https://upload.wikimedia.org/wikipedia/sco/thumb/9/98/Discord_logo.svg/800px-Discord_logo.svg.png    "
           alt=""
-          style={{ objectFit: "contain", height: "150px" }}
+          style={{ width: "100%" }}
         />
 
         <Button
